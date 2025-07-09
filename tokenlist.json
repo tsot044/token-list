@@ -1,18 +1,18 @@
 {
-  "name": "FlashTether Token List",
+  "name": "Tether USD Token List",
   "timestamp": "2025-07-09T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/tsot044/token-list/main/usdt/logo.png",
-  "keywords": ["stablecoin", "usdt", "tether", "FlashTether"],
+  "keywords": ["stablecoin", "tether", "usdt"],
   "tokens": [
     {
       "chainId": 8453,
       "address": "0x9F93Ed1fd5057f85df841A22feE52fD4CBB7631d",
-      "name": "FlashTether USD",
+      "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/tsot044/token-list/main/usdt/logo.png"
