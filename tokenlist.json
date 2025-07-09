@@ -7,11 +7,11 @@
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/tsot044/token-list/main/usdt/logo.png",
-  "keywords": ["stablecoin", "usdt", "tether", "base"],
+  "keywords": ["stablecoin", "usdt", "tether"],
   "tokens": [
     {
       "chainId": 8453,
-      "address": "0x9F93Ed1fd5057f85df841A22feE52fD4CBB7631d",
+      "address": "0x9F93Ed1fd5057f85df841A22feE52f4CBB7631d",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
