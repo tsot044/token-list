@@ -1,22 +1,21 @@
 {
-  "name": "Tether USD Token List",
+  "name": "DrexCoin Token List",
   "timestamp": "2025-07-09T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://eth.fasst.space/usdt/logo.png",
-  "keywords": ["stablecoin", "usdt", "tether"],
+  "logoURI": "https://drexcoin.fasst.space/logo.png",
+  "keywords": ["drex", "stablecoin", "brasil"],
   "tokens": [
     {
       "chainId": 8453,
-      "address": "0x9F93Ed1fd5057f85df841A22feE52fD4CBB7631d",
-      "name": "Tether USD",
-      "symbol": "USDT",
+      "address": "0x0C1c8B1cD7570f6796b303aA489810aD0E81836F",
+      "name": "DREX Coin",
+      "symbol": "DRX",
       "decimals": 18,
-      "logoURI": "https://eth.fasst.space/usdt/logo.png"
+      "logoURI": "https://drexcoin.fasst.space/logo.png"
     }
-  ],
-  "extensions": {}
+  ]
 }
