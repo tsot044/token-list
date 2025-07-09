@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://drexcoin.fasst.space/logo.png",
+  "logoURI": "https://drexcoin.fasst.space/usdt/logo.png",
   "keywords": ["drex", "stablecoin", "brasil"],
   "tokens": [
     {
@@ -15,7 +15,7 @@
       "name": "DREX Coin",
       "symbol": "DRX",
       "decimals": 18,
-      "logoURI": "https://drexcoin.fasst.space/logo.png"
+      "logoURI": "https://drexcoin.fasst.space/usdt/logo.png"
     }
   ]
 }
