@@ -3,11 +3,11 @@
   "timestamp": "2025-07-09T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/tsot044/token-list/main/usdt/logo.png",
-  "keywords": ["stablecoin", "tether", "usdt"],
+  "keywords": ["stablecoin", "usdt", "tether", "base"],
   "tokens": [
     {
       "chainId": 8453,
